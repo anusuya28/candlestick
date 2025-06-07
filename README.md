@@ -1,0 +1,23 @@
+Steps to Run this Project:
+============================================
+1. Create a Maven Project
+
+2. Add Dependency files to the pom.xml file
+	 io.rest-assured 
+	 org.junit.jupiter 
+	 
+3. Save the pom.xml and Clean and Build the Project 
+
+4. To run the Project as Maven Poject:
+
+	right click on Project <CandelStick> and run as Maven Test
+	
+	OR
+	
+To run the Project as Maven Poject:	
+
+	right click on Project <CandelStick> and run as JUnit
+	
+5. To view the result: 
+
+	.\target\surefire-reports
